@@ -120,6 +120,12 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
 
+mastodon-genomicsocial:
+  icon: fa-brands fa-mastodon
+  text: Mastodon
+  tooltip: Mastodon
+  link: https://genomic.social/@$VALUE
+
 # alerts
 
 tip:

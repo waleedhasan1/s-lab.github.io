@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: korthauer-lab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Korthauer Lab
+subtitle: Statistics + Genomics
+description: We work on advancing statistical methodology and computational tools for the analysis of high-dimensional genomics data. With these tools, we aim to uncover new molecular signals in cancer, child health, and development.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@korthauer-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: keegan.korthauer@ubc.ca
+  orcid: 0000-0002-4565-1654
+  google-scholar: spd-KjUAAAAJ
   github: korthauer-lab
-  twitter: korthauer-lab
-  youtube: korthauer-lab
-
+  mastodon-genomicsocial: keegankorthauer
+  twitter: keegankorthauer
+  
 ### jekyll settings
 
 # front matter defaults

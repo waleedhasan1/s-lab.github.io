@@ -1,9 +1,9 @@
 ---
 ---
 
-# korthauer-lab's Website
+# THIS WEBSITE IS CURRENTLY UNDER DEVELOPMENT...
 
-An engaging 1-3 sentence description of your lab.
+The Korthauer lab is based at the University of British Columbia and BC Children's Hospital Research Institute. Our work advances statistical methodology and computational tools for the analysis of high-dimensional genomics data. With these tools, we aim to uncover new molecular signals in cancer, child health, and development.
 
 {% include section.html %}
 
