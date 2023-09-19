@@ -1,23 +1,135 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- id: doi:10.48550/arXiv.2308.02067
+  date: '2023-08-03'
+  image: https://github.com/giulianonetto/bayesdca/raw/master/man/figures/README-unnamed-chunk-5-1.png
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+      link: https://github.com/giulianonetto/paper-bayesdca
+    - type: package
+      text: R Package
+      link: https://github.com/giulianonetto/bayesdca
+      
+- id: doi:10.1101/381145 
+  image: images/reanalysis.gif
+  buttons:
+    - type: source
+      link: https://github.com/kdkorthauer/repressiveCapacity
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1016/j.nbd.2023.106138
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0969996123001523-gr5.jpg
+  buttons: 
+    - type: source
+      link: https://github.com/ErickNavarroD/hum_progranulin_RNAseq_Leavitt
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1186/s13059-023-02869-1
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-023-02869-1/MediaObjects/13059_2023_2869_Fig1_HTML.png?
+  buttons: 
+    - type: source
+      link: https://github.com/kdkorthauer/rat_imprintome
+      
+- id: doi:10.1172/JCI151666
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/151000/151666/medium/JCI151666.f1.jpg
+  buttons: 
+    - type: source
+      link: https://github.com/kdkorthauer/MCC
+      
+- id: doi:10.1158/1078-0432.CCR-21-3762
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/28/5/10.1158_1078-0432.ccr-21-3762/5/m_928fig1.jpeg?Expires=1697653199&Signature=rP3iDnbFSdo3Uf20wNEUzbTZvLwzKf1caGvwUAw9lG3-6NnSDUiozcX24SsBaZG04p5KP~I4f3i3oFrYHflMaaAD8CTgcZec7Zzab5nKCwkM3B3HUhPizrg1a1n6ENGRVWoNFASaZPZQbpwgYViDO0SPI2B7CLutU0Ljh2KSFEPq-IGq5CWend5jhm3CTrPVVn3lPepeVfnAVpZ1ZxXSxIktMiHRaSW4ByFcK59xdAnu4MO5rtJWp6F0W~bD5jq9FGQs~Qw46gyCkA~H4DJnqmmLGWzKSWMSLV0VeoG5bz8Nu4JG6JcD6oaMGTbbMFGHi4XY8CpYyYQ5j5lHydy9VA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA      
+  buttons: 
+      
+- id: doi:10.1038/s41467-021-27077-y
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-27077-y/MediaObjects/41467_2021_27077_Fig1_HTML.png
+  
+- id: doi:10.1111/febs.15858
+  image: https://febs.onlinelibrary.wiley.com/cms/asset/b5f3ef07-2a56-4c82-892f-22847fc2fde9/febs15858-fig-0001-m.png
+  
+- id: doi:10.1214/20-AOAS1423
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10275512/bin/nihms-1901161-f0005.jpg
+  buttons:
+    - type: package
+      text: R package
+      link: https://github.com/wiscstatman/scDDboost
+      
+- id: doi:10.1038/s41467-021-22139-7
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-22139-7/MediaObjects/41467_2021_22139_Fig5_HTML.png?as=webp
+  
+- id: doi:10.1038/s43018-020-00135-y
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43018-020-00135-y/MediaObjects/43018_2020_135_Fig1_HTML.png?as=webp
+
+- id: doi:10.1038/s41586-020-2766-y
+  image: https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2Fs41591-020-01147-y/MediaObjects/41591_2020_1147_Figa_HTML.jpg?as=webp
+  
+- id: doi:10.1038/s41588-020-0664-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-020-0664-8/MediaObjects/41588_2020_664_Fig2_HTML.png?as=webp
+
+- id: doi:10.1038/s41436-020-0801-x
+  image: https://www.gimjournal.org/cms/attachment/ad6f4dc5-411f-4ca8-ad11-f98e860c9122/gr2.jpg
+
+- id: doi:10.1038/s41591-020-0933-1
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-020-0933-1/MediaObjects/41591_2020_933_Fig1_HTML.png?as=webp
+  buttons:
+    - type: source
+      link: https://github.com/kdkorthauer/cfMeDIPseq-RCC
+
+- id: doi:10.1093/biostatistics/kxy007
+  date: '2019-07-01'
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/biostatistics/20/3/10.1093_biostatistics_kxy007/2/m_kxy007f2.jpeg?Expires=1697046534&Signature=4L-Ycxm~40WYN4Ws5YOxrXt1xJXST1fkrGziUMcgdizwYIPFhtnUj4959DTWvmd9sv7VR9zIvrCVGcKFnltpd29c~9nYbiGzO9UYm8SraiEBO6XFxpdZBhqrHp8unOmgiZVvs7Suj5BygPQNyqGverTpXkz0QcmspdunUeGotcm7r1sp~q293PXsFvdq2KfrBVw9~WSF2NUv9bGNjDC9kdeGfR4e8NRciG~b4D-FguBoUU~I-vKPObrSMKHbfufn9hKUlSt7uFZKgKVbHqe9CJtYvSGpvOnmy52jNtROi~helIxlZTlJ2hEnYQAygluJYIKpc9uB8WudgjyVH0ixTw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  buttons:
+    - type: source
+      link: https://github.com/kdkorthauer/dmrseqPaper
+    - type: package
+      text: R/Bioconductor package
+      link: https://www.bioconductor.org/packages/release/bioc/html/dmrseq.html
+
+- id: doi:10.1186/s13059-019-1716-1
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-019-1716-1/MediaObjects/13059_2019_1716_Fig6_HTML.png
+  buttons: 
+    - type: source
+      link: https://github.com/pkimes/benchmark-fdr
+    - type: package
+      text: Data package
+      link: https://bioconductor.org/packages/release/data/experiment/html/benchmarkfdrData2019.html
+    - type: package
+      text: Shiny app
+      link: https://github.com/kdkorthauer/benchmarkfdr-shiny
+  
+- id: doi:10.1016/j.cell.2018.05.037
+  image: https://www.cell.com/cms/attachment/b6b454a0-c30b-403a-81d1-a6dfdd5cb91f/fx1.jpg
+
+- id: doi:10.1200/jco.2020.38.15_suppl.5046
+  type: abstract
+  
+- id: doi:10.1101/655795
+  type: duplicate
+
+- id: doi:10.1101/189654
+  type: duplicate
+  
+- id: doi:10.15252/embj.201798452
+  image: https://www.embopress.org/cms/asset/2ac93b61-762a-48c3-b9b5-2ae08e33e353/embj201798452-abs-0001-m.jpg
+  
+- id: doi:10.1007/s12561-016-9144-1
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5617361/bin/nihms810073f1.jpg
+
+- id: doi:10.1186/s13059-016-1077-y
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-016-1077-y/MediaObjects/13059_2016_1077_Fig3_HTML.gif?as=webp
+
+- id: doi:10.1101/035501
+  type: duplicate
+  
+- id: doi:10.1093/carcin/bgv171
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/carcin/37/2/10.1093_carcin_bgv171/2/m_carcin_bgv171_f0001.jpeg?Expires=1697116986&Signature=kQH9YqU8KdHD2OCYTBEUr6knBzDoCCNQQMFA3qo3XTLhiT-KHkubK7r6xjHkZZ1-kJC9RpH98Pcpp8UAIVdwvrRs5noPYV8v3D-xtaoAtTghP6i4IX2Zykp7UBo24oAeIeBTzrjrpDpbeJeT6pDDDhFTlUAqgsSDbzs7oqe3NB0VfmgqY17pTmMNR0cWBnYbizQU8gBNI6cH-Kli9aChGPzn5Isc-OwpwN01fTPCZcxJOog6IEHKEDa73vxW1Xi5Xo5zO4EVsr9WfXLVPNXkO9v8lEJPqJyqgrYFysV1ZqFzQJvx1ixIn2Ct3VuCUxE67U3~6R3-9TIQMAxygsbzPA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  
+- id: doi:10.1093/bioinformatics/btu858
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/31/10/10.1093_bioinformatics_btu858/3/m_bioinformatics_31_10_1526_f2.gif?Expires=1697117114&Signature=2M4sb5TWJj5aJKxQGBNJy6p2~w9612asa-ExblrrKJlbgWZChqPFbxqaZ32PIH9qDg~-3lYkOQGFvMjLBBTVJUtGvbiVjSShaVCOs~dQbvY42VfIdDfybsL~zG7TrtTcPrNV-BcileHHymULe79uZ2OEzWbg~SqNe~OlDHqprWC13BH8BJIVGwEzMYnFqVkRqRZA~M3OVcSni7goGnqPEpFTWk4iQ23kqYhoHbDQI9ne8JVbwC1-PRLj94WivsqaRJ~74Fg9VU0HyWyrlhWZcmXG2qIZhKgZY~IVZPJNUv~LTL3pprq8lMhLpnR0ncu-JygKR1Anl3V-FI--EYPR9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  
+- id: doi:10.1002/gepi.21820
+  image: https://onlinelibrary.wiley.com/cms/asset/f91a96ed-6bfa-4591-b826-a2ab6c2fee91/gepi21820-fig-0001-m.png
+  
+- id: doi:10.1017/cbo9781139226448.019
+  image: https://assets.cambridge.org/97811070/27527/cover/9781107027527.jpg
+  
+- id: doi:10.1128/IAI.05326-11
+  image: https://journals.asm.org/cms/10.1128/iai.05326-11/asset/c1cbe073-cabd-4bf2-a040-0045a3251c85/assets/graphic/zii9990995170001.jpeg
+
+- id: doi:10.1094/mpmi-21-11-1408
+  image: images/arabidopsisfig.png

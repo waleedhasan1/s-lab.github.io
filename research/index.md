@@ -2,26 +2,16 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Papers
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our interdisciplinary research lies at the interface of statistics and genomics. With our methods development work, we aim to advance statistical methodology and computational tools for the analysis of high-dimensional biological data. Our work is also highly collaborative; we routinely work alongside experimentalists and clinicians to apply cutting edge bioinformatics tools to uncover new molecular signals in cancer, child health, and development. You can check out our publications listed below, or find them listed on [Google Scholar](https://scholar.google.ca/citations?user=spd-KjUAAAAJ&hl=en).
 
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
 
 {% include search-box.html %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" style="rich" filters="type:" %}

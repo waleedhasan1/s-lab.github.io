@@ -1,9 +1,9 @@
 ---
 ---
 
-# THIS WEBSITE IS CURRENTLY UNDER DEVELOPMENT...
+The Korthauer lab is a group of researchers working to advance statistical methodology and computational tools for the analysis of high-dimensional genomics data. With these tools, we aim to uncover new molecular signals in cancer, child health, and development. Our group is based at the [University of British Columbia](https://ubc.ca) and [BC Children's Hospital Research Institute](https://bcchr.ca). 
 
-The Korthauer lab is based at the University of British Columbia and BC Children's Hospital Research Institute. Our work advances statistical methodology and computational tools for the analysis of high-dimensional genomics data. With these tools, we aim to uncover new molecular signals in cancer, child health, and development.
+{% include figure.html image="images/maingroup.png" width="60%" %}
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ The Korthauer lab is based at the University of British Columbia and BC Children
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We develop and apply tailored statistical tools designed to extract biological insights from vast amounts of genomic data. New technologies are constantly being developed to increase the scope and scale of genomic studies, which introduces new data science challenges for us to tackle. 
 
 {%
   include button.html
@@ -26,20 +26,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/helix.jpg"
   link="research"
-  title="Our Research"
+  title="Genomic data science"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We develop and maintain freely available, open source software implementations of genomic data science tools.  
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our tools"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/computer.jpeg"
   link="projects"
-  title="Our Projects"
+  title="Open source software"
   flip=true
   style="bare"
   text=text
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We're an interdisciplinary team of researchers who strive to be rigorous, reproducible, and transparent. Our core values include learning from each other and celebrating the success of others. 
 
 {%
   include button.html
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group2.jpg"
   link="team"
   title="Our Team"
   text=text
