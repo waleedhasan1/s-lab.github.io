@@ -50,7 +50,7 @@ We develop and maintain freely available, open source software implementations o
 {%
   include feature.html
   image="images/computer.jpeg"
-  link="projects"
+  link="tools"
   title="Open source software"
   flip=true
   style="bare"
