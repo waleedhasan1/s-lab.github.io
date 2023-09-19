@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our group is based at the [University of British Columbia](https://ubc.ca) and [BC Children's Hospital Research Institute (BCCHR)](https://bcchr.ca). Dr. Korthauer splits her time between her office in the [Department of Statistics](https://stat.ubc.ca) on UBC's main campus (Earth Sciences Building 3108) and her office at BCCHR, where our lab space is located (on the third floor of the [Variety Building](https://www.bcchr.ca/weber-lab/contact)). 
+Our group is based at the [University of British Columbia](https://ubc.ca) and [BC Children's Hospital Research Institute (BCCHR)](https://bcchr.ca). Dr. Korthauer splits her time between her office in the [Department of Statistics](https://stat.ubc.ca) on UBC's main campus (Earth Sciences Building 3108) and her office at BCCHR, where our lab space is located (on the third floor of the Variety Building). 
 
 {%
   include button.html

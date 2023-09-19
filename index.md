@@ -38,7 +38,7 @@ We develop and maintain freely available, open source software implementations o
 
 {%
   include button.html
-  link="projects"
+  link="tools"
   text="Browse our tools"
   icon="fa-solid fa-arrow-right"
   flip=true
