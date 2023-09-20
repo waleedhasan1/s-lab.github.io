@@ -5,7 +5,7 @@ nav:
   tooltip: Educational materials
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Teaching
+# {% include icon.html icon="fa-solid fa-chalkboard-user" %}Teaching
 
 Dr. Korthauer is involved in development and delivery of popular courses at UBC. When feasible, select course materials are made freely available - see below for a selection of current/recent courses: 
 
