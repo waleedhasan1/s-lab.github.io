@@ -1,5 +1,6 @@
 ---
 name: Giuliano Netto Flores Cruz
+image: images/people/giuliano.jpg
 role: phd
 links:
     email: giuliano.cruz@bcchr.ca
