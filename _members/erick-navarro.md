@@ -1,6 +1,6 @@
 ---
 name: Erick I. Navarro-Delgado
-image: images/people/erick_navarro.jpeg
+image: images/people/erick_navarro.jpg
 role: phd
 aliases: 
   -  Erick Navarro
