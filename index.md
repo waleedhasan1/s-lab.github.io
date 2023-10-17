@@ -1,7 +1,7 @@
 ---
 ---
 
-The Korthauer lab is a group of researchers working to advance statistical methodology and computational tools for the analysis of high-dimensional genomics data. With these tools, we aim to uncover new molecular signals in cancer, child health, and development. Our group is based at the [University of British Columbia](https://ubc.ca) and [BC Children's Hospital Research Institute](https://bcchr.ca). 
+The Korthauer lab is a group of researchers working to advance statistical methodology and computational tools for the analysis of high-dimensional genomics and epigenomics data. With these tools, we aim to uncover new molecular signals in cancer, child health, and development. Our group is based at the [University of British Columbia](https://ubc.ca) and [BC Children's Hospital Research Institute](https://bcchr.ca). 
 
 {% include figure.html image="images/maingroup.png" width="60%" %}
 
@@ -11,7 +11,7 @@ The Korthauer lab is a group of researchers working to advance statistical metho
 
 {% capture text %}
 
-We develop and apply tailored statistical tools designed to extract biological insights from vast amounts of genomic data. New technologies are constantly being developed to increase the scope and scale of genomic studies, which introduces new data science challenges for us to tackle. 
+We develop and apply tailored statistical tools designed to extract biological insights from vast amounts of genomic and epigenomic data. New technologies are constantly being developed to increase the scope and scale of genomic studies, which introduces new data science challenges for us to tackle. 
 
 {%
   include button.html
@@ -34,7 +34,7 @@ We develop and apply tailored statistical tools designed to extract biological i
 
 {% capture text %}
 
-We develop and maintain freely available, open source software implementations of genomic data science tools.  
+We develop and maintain freely available, open source software implementations of genomic and epigenomic data science tools.  
 
 {%
   include button.html
