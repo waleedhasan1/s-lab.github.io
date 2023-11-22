@@ -1,3 +1,17 @@
+
+- title: vmrseq
+  subtitle: 
+  group: main
+  image: https://github.com/nshen7/vmrseq/raw/main/man/figures/method.png
+  link: https://github.com/nshen7/vmrseq
+  description: R package for detecting variably methylated regions (VMRs) from single-cell methylation sequencing
+  repo: https://github.com/nshen7/vmrseq
+  tags:
+    - software
+    - R package
+    - developer
+    - maintainer
+
 - title: bayesDCA
   subtitle: 
   group: main

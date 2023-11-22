@@ -133,3 +133,6 @@
 
 - id: doi:10.1094/mpmi-21-11-1408
   image: images/arabidopsisfig.png
+  
+- id: doi:10.1101/2023.11.20.567911
+  image: https://github.com/nshen7/vmrseq/raw/main/man/figures/method.png
