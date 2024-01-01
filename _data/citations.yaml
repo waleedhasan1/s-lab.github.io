@@ -12,6 +12,75 @@
   plugin: sources.py
   file: sources.yaml
   image: https://github.com/nshen7/vmrseq/raw/main/man/figures/method.png
+- id: doi:10.48550/arXiv.2308.02067
+  title: Bayesian Decision Curve Analysis with bayesDCA
+  authors:
+  - Giuliano N. F. Cruz
+  - Keegan Korthauer
+  publisher: arXiv
+  date: '2023-08-03'
+  link: https://doi.org/gsqg6w
+  orcid: 0000-0002-4565-1654
+  plugin: sources.py
+  file: sources.yaml
+  image: https://github.com/giulianonetto/bayesdca/raw/master/man/figures/README-unnamed-chunk-5-1.png
+  buttons:
+  - type: source
+    link: https://github.com/giulianonetto/paper-bayesdca
+  - type: package
+    text: R Package
+    link: https://github.com/giulianonetto/bayesdca
+- id: doi:10.1186/s13059-023-02869-1
+  title: Conservation and divergence of canonical and non-canonical imprinting in
+    murids
+  authors:
+  - Julien Richard Albert
+  - Toshihiro Kobayashi
+  - Azusa Inoue
+  - "Ana Monteagudo-S\xE1nchez"
+  - Soichiro Kumamoto
+  - Tomoya Takashima
+  - Asuka Miura
+  - Mami Oikawa
+  - Fumihito Miura
+  - Shuji Takada
+  - Masumi Hirabayashi
+  - Keegan Korthauer
+  - Kazuki Kurimoto
+  - Maxim V. C. Greenberg
+  - Matthew Lorincz
+  - Hisato Kobayashi
+  publisher: Genome Biology
+  date: '2023-03-14'
+  link: https://doi.org/gsqhbf
+  orcid: 0000-0002-4565-1654
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-023-02869-1/MediaObjects/13059_2023_2869_Fig1_HTML.png?
+  buttons:
+  - type: source
+    link: https://github.com/kdkorthauer/rat_imprintome
+- id: doi:10.1016/j.nbd.2023.106138
+  title: "FTD-associated behavioural and transcriptomic abnormalities in \u2018humanized\u2019\
+    \ progranulin-deficient mice: A novel model for progranulin-associated FTD"
+  authors:
+  - Benjamin Life
+  - Terri L. Petkau
+  - Giuliano N.F. Cruz
+  - Erick I. Navarro-Delgado
+  - Ning Shen
+  - Keegan Korthauer
+  - Blair R. Leavitt
+  publisher: Neurobiology of Disease
+  date: '2023-06-01'
+  link: https://doi.org/gsqg95
+  orcid: 0000-0002-4565-1654
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0969996123001523-gr5.jpg
+  buttons:
+  - type: source
+    link: https://github.com/ErickNavarroD/hum_progranulin_RNAseq_Leavitt
 - id: doi:10.1172/JCI151666
   title: Reversal of viral and epigenetic HLA class I repression in Merkel cell carcinoma
   authors:
@@ -71,6 +140,32 @@
   buttons:
   - type: source
     link: https://github.com/kdkorthauer/MCC
+- id: doi:10.1101/2022.04.21.488764
+  title: Conservation and divergence of canonical and non-canonical imprinting in
+    murids
+  authors:
+  - Julien Richard Albert
+  - Toshihiro Kobayashi
+  - Azusa Inoue
+  - "Ana Monteagudo-S\xE1nchez"
+  - Soichiro Kumamoto
+  - Tomoya Takashima
+  - Asuka Miura
+  - Mami Oikawa
+  - Fumihito Miura
+  - Shuji Takada
+  - Masumi Hirabayashi
+  - Keegan Korthauer
+  - Kazuki Kurimoto
+  - Maxim Greenberg
+  - Matthew Lorincz
+  - Hisato Kobayashi
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-04-21'
+  link: https://doi.org/gs94mf
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/1078-0432.CCR-21-3762
   title: Detecting Neuroendocrine Prostate Cancer Through Tissue-Informed Cell-Free
     DNA Methylation Analysis
@@ -464,6 +559,108 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.gimjournal.org/cms/attachment/ad6f4dc5-411f-4ca8-ad11-f98e860c9122/gr2.jpg
+- id: doi:10.1038/s41591-020-1078-y
+  title: 'Author Correction: Detection of renal cell carcinoma using plasma and urine
+    cell-free DNA methylomes'
+  authors:
+  - Pier Vitale Nuzzo
+  - Jacob E. Berchuck
+  - Keegan Korthauer
+  - Sandor Spisak
+  - Amin H. Nassar
+  - Sarah Abou Alaiwi
+  - Ankur Chakravarthy
+  - Shu Yi Shen
+  - Ziad Bakouny
+  - Francesco Boccardo
+  - John Steinharter
+  - Gabrielle Bouchard
+  - Catherine R. Curran
+  - Wenting Pan
+  - Sylvan C. Baca
+  - Ji-Heui Seo
+  - Gwo-Shu Mary Lee
+  - M. Dror Michaelson
+  - Steven L. Chang
+  - Sushrut S. Waikar
+  - Guru Sonpavde
+  - Rafael A. Irizarry
+  - Mark Pomerantz
+  - Daniel D. De Carvalho
+  - Toni K. Choueiri
+  - Matthew L. Freedman
+  publisher: Nature Medicine
+  date: '2020-09-07'
+  link: https://doi.org/gsqg6r
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.10.23.350793
+  title: Reprogramming of the FOXA1 cistrome in treatment-emergent neuroendocrine
+    prostate cancer
+  authors:
+  - Sylvan C. Baca
+  - David Y. Takeda
+  - Ji-Heui Seo
+  - Justin Hwang
+  - Sheng Yu Ku
+  - Rand Arafeh
+  - Taylor Arnoff
+  - Supreet Agarwal
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Xintao Qiu
+  - Sarah Abou Alaiwi
+  - Rosario I. Corona
+  - Marcos A. S. Fonseca
+  - Claudia Giambartolomei
+  - Paloma Cejas
+  - Klothilda Lim
+  - Monica He
+  - Anjali Sheahan
+  - Amin Nassar
+  - Jacob E. Berchuck
+  - Lisha Brown
+  - Holly M. Nguyen
+  - Ilsa M. Coleman
+  - Arja Kaipainen
+  - Navonil De Sarkar
+  - Peter S. Nelson
+  - Colm Morrissey
+  - Keegan Korthauer
+  - Mark M. Pomerantz
+  - Leigh Ellis
+  - Bogdan Pasaniuc
+  - Kate Lawrenson
+  - Kathleen Kelly
+  - Amina Zoubeidi
+  - William C. Hahn
+  - Himisha Beltran
+  - Henry W. Long
+  - Myles Brown
+  - Eva Corey
+  - Matthew L. Freedman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-10-24'
+  link: https://doi.org/gsqg6q
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/655795
+  title: A Compositional Model to Assess Expression Changes from Single-Cell Rna-Seq
+    Data
+  authors:
+  - By Xiuyu Ma
+  - Keegan Korthauer
+  - Christina Kendziorski
+  - Michael A. Newton
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-05-31'
+  link: https://doi.org/gkxk9m
+  orcid: 0000-0002-4565-1654
+  plugin: sources.py
+  file: sources.yaml
+  type: duplicate
 - id: doi:10.1186/s13059-019-1716-1
   title: A practical guide to methods controlling false discoveries in computational
     biology
@@ -750,86 +947,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://assets.cambridge.org/97811070/27527/cover/9781107027527.jpg
-- id: doi:10.48550/arXiv.2308.02067
-  title: Bayesian Decision Curve Analysis with bayesDCA
-  authors:
-  - Giuliano N. F. Cruz
-  - Keegan Korthauer
-  publisher: arXiv
-  date: '2023-08-03'
-  link: https://doi.org/gsqg6w
-  image: https://github.com/giulianonetto/bayesdca/raw/master/man/figures/README-unnamed-chunk-5-1.png
-  buttons:
-  - type: source
-    link: https://github.com/giulianonetto/paper-bayesdca
-  - type: package
-    text: R Package
-    link: https://github.com/giulianonetto/bayesdca
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.nbd.2023.106138
-  title: "FTD-associated behavioural and transcriptomic abnormalities in \u2018humanized\u2019\
-    \ progranulin-deficient mice: A novel model for progranulin-associated FTD"
-  authors:
-  - Benjamin Life
-  - Terri L. Petkau
-  - Giuliano N.F. Cruz
-  - Erick I. Navarro-Delgado
-  - Ning Shen
-  - Keegan Korthauer
-  - Blair R. Leavitt
-  publisher: Neurobiology of Disease
-  date: '2023-06-01'
-  link: https://doi.org/gsqg95
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0969996123001523-gr5.jpg
-  buttons:
-  - type: source
-    link: https://github.com/ErickNavarroD/hum_progranulin_RNAseq_Leavitt
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/s13059-023-02869-1
-  title: Conservation and divergence of canonical and non-canonical imprinting in
-    murids
-  authors:
-  - Julien Richard Albert
-  - Toshihiro Kobayashi
-  - Azusa Inoue
-  - "Ana Monteagudo-S\xE1nchez"
-  - Soichiro Kumamoto
-  - Tomoya Takashima
-  - Asuka Miura
-  - Mami Oikawa
-  - Fumihito Miura
-  - Shuji Takada
-  - Masumi Hirabayashi
-  - Keegan Korthauer
-  - Kazuki Kurimoto
-  - Maxim V. C. Greenberg
-  - Matthew Lorincz
-  - Hisato Kobayashi
-  publisher: Genome Biology
-  date: '2023-03-14'
-  link: https://doi.org/gsqhbf
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-023-02869-1/MediaObjects/13059_2023_2869_Fig1_HTML.png?
-  buttons:
-  - type: source
-    link: https://github.com/kdkorthauer/rat_imprintome
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/655795
-  title: A Compositional Model to Assess Expression Changes from Single-Cell Rna-Seq
-    Data
-  authors:
-  - By Xiuyu Ma
-  - Keegan Korthauer
-  - Christina Kendziorski
-  - Michael A. Newton
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-05-31'
-  link: https://doi.org/gkxk9m
-  type: duplicate
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.15252/embj.201798452
   title: "High\u2010throughput identification of\n            <scp>RNA</scp>\n   \
     \         nuclear enrichment sequences"
