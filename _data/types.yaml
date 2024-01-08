@@ -101,7 +101,7 @@ twitter:
   link: https://twitter.com/$VALUE
 
 bluesky:
-  icon: Bluesky_butterfly-logo.svg
+  icon: fa-solid fa-cloud
   text: Bluesky
   tooltip: Bluesky
   link: https://bsky.app/profile/$VALUE.bsky.social
