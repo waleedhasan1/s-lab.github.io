@@ -6,7 +6,7 @@ $one: 500px;
 
 .grid {
   display: grid;
-  --repeat: 4;
+  --repeat: 3;
   grid-template-columns: repeat(var(--repeat), 1fr);
   justify-content: center;
   align-items: flex-start;
