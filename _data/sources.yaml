@@ -21,7 +21,7 @@
       link: https://github.com/ErickNavarroD/hum_progranulin_RNAseq_Leavitt
 
 - id: doi:10.1186/s13059-023-02869-1
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-023-02869-1/MediaObjects/13059_2023_2869_Fig1_HTML.png?
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-023-02869-1/MediaObjects/13059_2023_2869_Fig1_HTML.png
   buttons: 
     - type: source
       link: https://github.com/kdkorthauer/rat_imprintome
