@@ -532,7 +532,7 @@
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
-  type: abstract
+  type: duplicate
 - id: doi:10.1038/s41436-020-0801-x
   title: Plasma cell-free DNA variant analysis compared with methylated DNA analysis
     in renal cell carcinoma
