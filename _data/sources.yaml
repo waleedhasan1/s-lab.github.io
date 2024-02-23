@@ -94,15 +94,6 @@
   
 - id: doi:10.1016/j.cell.2018.05.037
   image: https://www.cell.com/cms/attachment/b6b454a0-c30b-403a-81d1-a6dfdd5cb91f/fx1.jpg
-
-- id: doi:10.1200/jco.2020.38.15_suppl.5046
-  type: abstract
-  
-- id: doi:10.1101/655795
-  type: duplicate
-
-- id: doi:10.1101/189654
-  type: duplicate
   
 - id: doi:10.15252/embj.201798452
   image: https://www.embopress.org/cms/asset/2ac93b61-762a-48c3-b9b5-2ae08e33e353/embj201798452-abs-0001-m.jpg
@@ -112,24 +103,6 @@
 
 - id: doi:10.1186/s13059-016-1077-y
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-016-1077-y/MediaObjects/13059_2016_1077_Fig3_HTML.gif?as=webp
-
-- id: doi:10.1101/035501
-  type: duplicate
-  
-- id: doi:10.1097/WON.0B013E31821530CA
-  type: duplicate
-
-- id: doi:10.1101/2022.04.21.488764
-  type: duplicate
-
-- id: doi:10.1101/2020.10.23.350793
-  type: duplicate
-
-- id: doi:10.1038/s41591-020-1078-y
-  type: duplicate
-  
-- id: doi:10.1200/JCO.2020.38.6_SUPPL.728
-  type: duplicate
 
 - id: doi:10.1093/carcin/bgv171
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/carcin/37/2/10.1093_carcin_bgv171/2/m_carcin_bgv171_f0001.jpeg?Expires=1697116986&Signature=kQH9YqU8KdHD2OCYTBEUr6knBzDoCCNQQMFA3qo3XTLhiT-KHkubK7r6xjHkZZ1-kJC9RpH98Pcpp8UAIVdwvrRs5noPYV8v3D-xtaoAtTghP6i4IX2Zykp7UBo24oAeIeBTzrjrpDpbeJeT6pDDDhFTlUAqgsSDbzs7oqe3NB0VfmgqY17pTmMNR0cWBnYbizQU8gBNI6cH-Kli9aChGPzn5Isc-OwpwN01fTPCZcxJOog6IEHKEDa73vxW1Xi5Xo5zO4EVsr9WfXLVPNXkO9v8lEJPqJyqgrYFysV1ZqFzQJvx1ixIn2Ct3VuCUxE67U3~6R3-9TIQMAxygsbzPA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -151,3 +124,30 @@
   
 - id: doi:10.1101/2023.11.20.567911
   image: https://github.com/nshen7/vmrseq/raw/main/man/figures/method.png
+  
+- id: doi:10.1101/655795
+  type: duplicate
+
+- id: doi:10.1101/189654
+  type: duplicate
+  
+- id: doi:10.1101/035501
+  type: duplicate
+  
+- id: doi:10.1097/WON.0B013E31821530CA
+  type: duplicate
+
+- id: doi:10.1101/2022.04.21.488764
+  type: duplicate
+
+- id: doi:10.1101/2020.10.23.350793
+  type: duplicate
+
+- id: doi:10.1038/s41591-020-1078-y
+  type: duplicate
+  
+- id: doi:10.1200/JCO.2020.38.6_SUPPL.728
+  type: duplicate
+
+- id: doi:10.1200/jco.2020.38.15_suppl.5046
+  type: duplicate

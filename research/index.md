@@ -14,4 +14,4 @@ Our interdisciplinary research lies at the interface of statistics and genomics.
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" filters="type:" %}
+{% include list.html data="citations" component="citation" style="rich" filters="type: ^(?!duplicate$)" %}
