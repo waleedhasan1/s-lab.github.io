@@ -72,7 +72,7 @@
 
 - id: doi:10.1093/biostatistics/kxy007
   date: '2019-07-01'
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/biostatistics/20/3/10.1093_biostatistics_kxy007/2/m_kxy007f2.jpeg?Expires=1697046534&Signature=4L-Ycxm~40WYN4Ws5YOxrXt1xJXST1fkrGziUMcgdizwYIPFhtnUj4959DTWvmd9sv7VR9zIvrCVGcKFnltpd29c~9nYbiGzO9UYm8SraiEBO6XFxpdZBhqrHp8unOmgiZVvs7Suj5BygPQNyqGverTpXkz0QcmspdunUeGotcm7r1sp~q293PXsFvdq2KfrBVw9~WSF2NUv9bGNjDC9kdeGfR4e8NRciG~b4D-FguBoUU~I-vKPObrSMKHbfufn9hKUlSt7uFZKgKVbHqe9CJtYvSGpvOnmy52jNtROi~helIxlZTlJ2hEnYQAygluJYIKpc9uB8WudgjyVH0ixTw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/dmrseqimage.jpeg
   buttons:
     - type: source
       link: https://github.com/kdkorthauer/dmrseqPaper
@@ -114,6 +114,24 @@
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-016-1077-y/MediaObjects/13059_2016_1077_Fig3_HTML.gif?as=webp
 
 - id: doi:10.1101/035501
+  type: duplicate
+  
+- id: doi:10.1097/WON.0B013E31821530CA
+  type: duplicate
+
+- id: wosuid:WOS:000209142900506
+  type: duplicate
+
+- id: wosuid:WOS:000331939301256
+  type: duplicate
+
+- id: wosuid:WOS:000929815500012
+  type: duplicate
+
+- id: wosuid:WOS:000888821100019
+  type: duplicate
+
+- id: wosuid:WOS:000589972403168
   type: duplicate
   
 - id: doi:10.1093/carcin/bgv171
