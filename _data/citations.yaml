@@ -56,7 +56,7 @@
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-023-02869-1/MediaObjects/13059_2023_2869_Fig1_HTML.png?
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-023-02869-1/MediaObjects/13059_2023_2869_Fig1_HTML.png
   buttons:
   - type: source
     link: https://github.com/kdkorthauer/rat_imprintome
@@ -201,24 +201,6 @@
   file: sources.yaml
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/28/5/10.1158_1078-0432.ccr-21-3762/5/m_928fig1.jpeg?Expires=1697653199&Signature=rP3iDnbFSdo3Uf20wNEUzbTZvLwzKf1caGvwUAw9lG3-6NnSDUiozcX24SsBaZG04p5KP~I4f3i3oFrYHflMaaAD8CTgcZec7Zzab5nKCwkM3B3HUhPizrg1a1n6ENGRVWoNFASaZPZQbpwgYViDO0SPI2B7CLutU0Ljh2KSFEPq-IGq5CWend5jhm3CTrPVVn3lPepeVfnAVpZ1ZxXSxIktMiHRaSW4ByFcK59xdAnu4MO5rtJWp6F0W~bD5jq9FGQs~Qw46gyCkA~H4DJnqmmLGWzKSWMSLV0VeoG5bz8Nu4JG6JcD6oaMGTbbMFGHi4XY8CpYyYQ5j5lHydy9VA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   buttons: null
-- id: wosuid:WOS:000929815500012
-  title: Virally mediated mechanisms of HLA class I loss in Merkel cell carcinoma
-    and implications for viral epitope presentation
-  publisher: Journal of Investigative Dermatology
-  date: '2024-02-05'
-  link: https://publons.com/wos-op/publon/57421232/
-  orcid: 0000-0002-4565-1654
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000888821100019
-  title: Virally mediated mechanisms of HLA class I loss in Merkel cell carcinoma
-    and implications for viral epitope presentation
-  publisher: Journal of Investigative Dermatology
-  date: '2024-02-05'
-  link: https://publons.com/wos-op/publon/57421237/
-  orcid: 0000-0002-4565-1654
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1111/febs.15858
   title: "Differential substrate use in EGF\u2010 and oncogenic KRAS\u2010stimulated\
     \ human mammary epithelial cells"
@@ -613,15 +595,6 @@
   orcid: 0000-0002-4565-1654
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000589972403168
-  title: IdentifyingIdentifying regulators of reversible MHC I loss in Markel cell
-    carcinoma through genome-scale screens
-  publisher: The Journal of Immunology
-  date: '2024-02-05'
-  link: https://publons.com/wos-op/publon/54983749/
-  orcid: 0000-0002-4565-1654
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2020.10.23.350793
   title: Reprogramming of the FOXA1 cistrome in treatment-emergent neuroendocrine
     prostate cancer
@@ -670,36 +643,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-10-24'
   link: https://doi.org/gsqg6q
-  orcid: 0000-0002-4565-1654
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1200/JCO.2020.38.6_SUPPL.728
-  title: Sensitive detection of renal cell carcinoma using plasma and urine cell-free
-    DNA methylomes.
-  authors:
-  - Pier Vitale Nuzzo
-  - Jacob E Berchuck
-  - Sandor Spisak
-  - Keegan Korthauer
-  - Amin Nassar
-  - Sarah Abou Alaiwi
-  - Ankur Chakravarthy
-  - Shu Yi Shen
-  - Ziad Bakouny
-  - Francesco Boccardo
-  - Sylvan Baca
-  - Gwo-Shu Mary Lee
-  - Steven Lee Chang
-  - Sushrut Waikar
-  - Guru Sonpavde
-  - Rafael A. Irizarry
-  - Mark Pomerantz
-  - Daniel De Carvalho
-  - Matthew L. Freedman
-  - Toni K. Choueiri
-  publisher: Journal of Clinical Oncology
-  date: '2020-02-20'
-  link: https://doi.org/gtg4f5
   orcid: 0000-0002-4565-1654
   plugin: orcid.py
   file: orcid.yaml
@@ -827,7 +770,7 @@
   orcid: 0000-0002-4565-1654
   plugin: sources.py
   file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/biostatistics/20/3/10.1093_biostatistics_kxy007/2/m_kxy007f2.jpeg?Expires=1697046534&Signature=4L-Ycxm~40WYN4Ws5YOxrXt1xJXST1fkrGziUMcgdizwYIPFhtnUj4959DTWvmd9sv7VR9zIvrCVGcKFnltpd29c~9nYbiGzO9UYm8SraiEBO6XFxpdZBhqrHp8unOmgiZVvs7Suj5BygPQNyqGverTpXkz0QcmspdunUeGotcm7r1sp~q293PXsFvdq2KfrBVw9~WSF2NUv9bGNjDC9kdeGfR4e8NRciG~b4D-FguBoUU~I-vKPObrSMKHbfufn9hKUlSt7uFZKgKVbHqe9CJtYvSGpvOnmy52jNtROi~helIxlZTlJ2hEnYQAygluJYIKpc9uB8WudgjyVH0ixTw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/dmrseqimage.jpeg
   buttons:
   - type: source
     link: https://github.com/kdkorthauer/dmrseqPaper
@@ -945,25 +888,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://onlinelibrary.wiley.com/cms/asset/f91a96ed-6bfa-4591-b826-a2ab6c2fee91/gepi21820-fig-0001-m.png
-- id: wosuid:WOS:000331939301256
-  title: THE RELATION BETWEEN SUBJECTIVE SOCIOECONOMIC STATUS, DEPRESSION AND SELF-RATED
-    HEALTH IN A POPULATION OF AFRICAN AMERICANS, HISPANICS AND NON-HISPANIC WHITES
-    WITH DIABETES
-  publisher: Journal of General Internal Medicine
-  date: '2024-02-05'
-  link: https://publons.com/wos-op/publon/14539346/
-  orcid: 0000-0002-4565-1654
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000209142900506
-  title: SUBJECTIVE AND OBJECTIVE SOCIOECONOMIC STATUS AND CONTROL OF HYPERTENSION
-    AND DIABETES
-  publisher: Journal of General Internal Medicine
-  date: '2024-02-05'
-  link: https://publons.com/wos-op/publon/14539344/
-  orcid: 0000-0002-4565-1654
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1128/IAI.05326-11
   title: "Limited Model Antigen Expression by Transgenic Fungi Induces Disparate Fates\
     \ during Differentiation of Adoptively Transferred T Cell Receptor Transgenic\
@@ -989,22 +913,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://journals.asm.org/cms/10.1128/iai.05326-11/asset/c1cbe073-cabd-4bf2-a040-0045a3251c85/assets/graphic/zii9990995170001.jpeg
-- id: doi:10.1097/WON.0B013E31821530CA
-  title: Use and Evaluation of Disposable Absorbent Products for Managing Fecal Incontinence
-    by Community-Living People
-  authors:
-  - Donna Z. Bliss
-  - Jaclyn Lewis
-  - Keegan Hasselman
-  - Kay Savik
-  - Ann Lowry
-  - Robin Whitebird
-  publisher: Journal of Wound, Ostomy &amp; Continence Nursing
-  date: '2011-05-01'
-  link: https://doi.org/c57c7p
-  orcid: 0000-0002-4565-1654
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1094/mpmi-21-11-1408
   title: 'The Genetic Network Controlling the <i>Arabidopsis</i> Transcriptional Response
     to <i>Pseudomonas syringae</i> pv. <i>maculicola</i>: Roles of Major Regulators
@@ -1056,5 +964,21 @@
   date: '2018-01-15'
   link: https://doi.org/gh7jc4
   image: https://www.embopress.org/cms/asset/2ac93b61-762a-48c3-b9b5-2ae08e33e353/embj201798452-abs-0001-m.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1097/WON.0B013E31821530CA
+  title: Use and Evaluation of Disposable Absorbent Products for Managing Fecal Incontinence
+    by Community-Living People
+  authors:
+  - Donna Z. Bliss
+  - Jaclyn Lewis
+  - Keegan Hasselman
+  - Kay Savik
+  - Ann Lowry
+  - Robin Whitebird
+  publisher: Journal of Wound, Ostomy &amp; Continence Nursing
+  date: '2011-05-01'
+  link: https://doi.org/c57c7p
+  type: duplicate
   plugin: sources.py
   file: sources.yaml
