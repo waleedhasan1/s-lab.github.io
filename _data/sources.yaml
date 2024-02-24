@@ -96,7 +96,7 @@
   image: https://www.cell.com/cms/attachment/b6b454a0-c30b-403a-81d1-a6dfdd5cb91f/fx1.jpg
   
 - id: doi:10.15252/embj.201798452
-  image: https://www.embopress.org/cms/asset/2ac93b61-762a-48c3-b9b5-2ae08e33e353/embj201798452-abs-0001-m.jpg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5852646/bin/EMBJ-37-e98452-g002.jpg
   
 - id: doi:10.1007/s12561-016-9144-1
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5617361/bin/nihms810073f1.jpg
@@ -105,10 +105,10 @@
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-016-1077-y/MediaObjects/13059_2016_1077_Fig3_HTML.gif?as=webp
 
 - id: doi:10.1093/carcin/bgv171
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/carcin/37/2/10.1093_carcin_bgv171/2/m_carcin_bgv171_f0001.jpeg?Expires=1697116986&Signature=kQH9YqU8KdHD2OCYTBEUr6knBzDoCCNQQMFA3qo3XTLhiT-KHkubK7r6xjHkZZ1-kJC9RpH98Pcpp8UAIVdwvrRs5noPYV8v3D-xtaoAtTghP6i4IX2Zykp7UBo24oAeIeBTzrjrpDpbeJeT6pDDDhFTlUAqgsSDbzs7oqe3NB0VfmgqY17pTmMNR0cWBnYbizQU8gBNI6cH-Kli9aChGPzn5Isc-OwpwN01fTPCZcxJOog6IEHKEDa73vxW1Xi5Xo5zO4EVsr9WfXLVPNXkO9v8lEJPqJyqgrYFysV1ZqFzQJvx1ixIn2Ct3VuCUxE67U3~6R3-9TIQMAxygsbzPA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4834967/bin/carcin_bgv171_f0002.jpg
   
 - id: doi:10.1093/bioinformatics/btu858
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/31/10/10.1093_bioinformatics_btu858/3/m_bioinformatics_31_10_1526_f2.gif?Expires=1697117114&Signature=2M4sb5TWJj5aJKxQGBNJy6p2~w9612asa-ExblrrKJlbgWZChqPFbxqaZ32PIH9qDg~-3lYkOQGFvMjLBBTVJUtGvbiVjSShaVCOs~dQbvY42VfIdDfybsL~zG7TrtTcPrNV-BcileHHymULe79uZ2OEzWbg~SqNe~OlDHqprWC13BH8BJIVGwEzMYnFqVkRqRZA~M3OVcSni7goGnqPEpFTWk4iQ23kqYhoHbDQI9ne8JVbwC1-PRLj94WivsqaRJ~74Fg9VU0HyWyrlhWZcmXG2qIZhKgZY~IVZPJNUv~LTL3pprq8lMhLpnR0ncu-JygKR1Anl3V-FI--EYPR9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4426832/bin/btu858f1p.jpg
   
 - id: doi:10.1002/gepi.21820
   image: https://onlinelibrary.wiley.com/cms/asset/f91a96ed-6bfa-4591-b826-a2ab6c2fee91/gepi21820-fig-0001-m.png
