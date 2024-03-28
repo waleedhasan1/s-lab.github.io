@@ -202,6 +202,24 @@
   file: sources.yaml
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/28/5/10.1158_1078-0432.ccr-21-3762/5/m_928fig1.jpeg?Expires=1697653199&Signature=rP3iDnbFSdo3Uf20wNEUzbTZvLwzKf1caGvwUAw9lG3-6NnSDUiozcX24SsBaZG04p5KP~I4f3i3oFrYHflMaaAD8CTgcZec7Zzab5nKCwkM3B3HUhPizrg1a1n6ENGRVWoNFASaZPZQbpwgYViDO0SPI2B7CLutU0Ljh2KSFEPq-IGq5CWend5jhm3CTrPVVn3lPepeVfnAVpZ1ZxXSxIktMiHRaSW4ByFcK59xdAnu4MO5rtJWp6F0W~bD5jq9FGQs~Qw46gyCkA~H4DJnqmmLGWzKSWMSLV0VeoG5bz8Nu4JG6JcD6oaMGTbbMFGHi4XY8CpYyYQ5j5lHydy9VA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   buttons: null
+- id: wosuid:WOS:000888821100019
+  title: Virally mediated mechanisms of HLA class I loss in Merkel cell carcinoma
+    and implications for viral epitope presentation
+  publisher: Journal of Investigative Dermatology
+  date: '2024-02-27'
+  link: https://publons.com/wos-op/publon/57421237/
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000929815500012
+  title: Virally mediated mechanisms of HLA class I loss in Merkel cell carcinoma
+    and implications for viral epitope presentation
+  publisher: Journal of Investigative Dermatology
+  date: '2024-02-27'
+  link: https://publons.com/wos-op/publon/57421232/
+  orcid: 0000-0002-4565-1654
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/febs.15858
   title: "Differential substrate use in EGF\u2010 and oncogenic KRAS\u2010stimulated\
     \ human mammary epithelial cells"
