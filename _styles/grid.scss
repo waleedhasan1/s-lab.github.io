@@ -6,7 +6,7 @@ $one: 500px;
 
 .grid {
   display: grid;
-  --repeat: 4;
+  --repeat: 3;
   grid-template-columns: repeat(var(--repeat), 1fr);
   justify-content: center;
   align-items: flex-start;
@@ -49,6 +49,6 @@ $one: 500px;
   }
 }
 
-.grid > *:where(h1, h2, h3, h4) {
+.grid > :where(h1, h2, h3, h4, h5, h6) {
   display: none;
 }
